@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/12/25/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>markdown</title>
+    <url>/2021/12/25/markdown/</url>
+    <content><![CDATA[<p>也没什么可讲的，就先讲讲我刚学的Markdown吧！</p>
+<h2 id="何为Markdown？"><a href="#何为Markdown？" class="headerlink" title="何为Markdown？"></a>何为Markdown？</h2><ul>
+<li>Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。 它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件<br>已有的纯文本标记的特性。</li>
+<li>由于Markdown的轻量化、易读易写特性，并且对于图片，图表、数学式都有支持，许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息。 如GitHub、Reddit、Diaspora、Stack Exchange、OpenStreetMap 、SourceForge、简书等，甚至还能被使用来撰写电子书。<br><img  src="/images/markdown.jpg"  ><span class="image-caption">markdown</span><h3 id="一些Markdown的基本语法"><a href="#一些Markdown的基本语法" class="headerlink" title="一些Markdown的基本语法"></a>一些Markdown的基本语法</h3></li>
+<li>斜体：在句子首尾各加上一个”*”: <em>这很合理</em></li>
+<li>粗体：在句子首尾各加上两个”**”: <strong>这很合理</strong></li>
+<li>引用：在句子首加上”&gt;”:<blockquote>
+<p>这很合理</p>
+</blockquote>
+<h1 id="好啦，我知道的Markdown语法就这么多了，bye！"><a href="#好啦，我知道的Markdown语法就这么多了，bye！" class="headerlink" title="好啦，我知道的Markdown语法就这么多了，bye！"></a>好啦，我知道的Markdown语法就这么多了，bye！</h1></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>致致远八班————上网课了，听说你想躺平?</title>
+    <url>/2022/01/08/%E4%B8%8A%E7%BD%91%E8%AF%BE%E4%BA%86%EF%BC%8C%E5%90%AC%E8%AF%B4%E4%BD%A0%E6%83%B3%E8%BA%BA%E5%B9%B3/</url>
+    <content><![CDATA[<p>因为疫情原因，我们有被迫上了网课。<br>我想大家都十分的开心<br><img src="https://img.gmz88.com:4433/uploadimg/image/20190222/20190222141926_69948.jpg"><br>但开心归开心，如果你想放松一下或者是躺平，那你就废了。</p>
+<h1 id="首先你要记住一句话“假期是学霸成为学渣，菜鸟逆袭成大神”的时候"><a href="#首先你要记住一句话“假期是学霸成为学渣，菜鸟逆袭成大神”的时候" class="headerlink" title="首先你要记住一句话“假期是学霸成为学渣，菜鸟逆袭成大神”的时候"></a>首先你要记住一句话“假期是学霸成为学渣，菜鸟逆袭成大神”的时候</h1><ul>
+<li>千万不要沉浸在昔日的荣光中，因为这容易使你盲目自信、放纵懈怠，然后，你就被超越了！</li>
+<li>所以每当考完一次试，如果考砸了，不要灰心，从中吸取经验，记住它；如果考得很好，高兴一下，然后忘掉它。<br><img src="http://wx2.sinaimg.cn/bmiddle/006GJQvhgy1g07k6uhoo6j30g40920ti.jpg"><h2 id="所以如何不被超越？"><a href="#所以如何不被超越？" class="headerlink" title="所以如何不被超越？"></a>所以如何不被超越？</h2></li>
+<li>Just one way – learn hard.<blockquote>
+<p>只有一个办法——努力学习</p>
+<pre><code>       --百度翻译
+</code></pre>
+<p>通俗讲，就是内卷！</p>
+</blockquote>
+<h1 id="鲁迅说过"><a href="#鲁迅说过" class="headerlink" title="鲁迅说过"></a>鲁迅说过</h1><blockquote>
+<p>若此后竟没有内卷，我便是唯一的涡旋！</p>
+<pre><code>                       --鲁迅
+</code></pre>
+<p><img  src="http://imgsrc.baidu.com/baike/pic/item/2934349b033b5bb56edbba6536d3d539b600bc19.jpg"  ><span class="image-caption">涡旋（卷出来的）</span></p>
+</blockquote>
+<h1 id="所以网课和寒假期间，要努力，不要躺平，往死里卷！！！"><a href="#所以网课和寒假期间，要努力，不要躺平，往死里卷！！！" class="headerlink" title="所以网课和寒假期间，要努力，不要躺平，往死里卷！！！"></a>所以网课和寒假期间，要努力，不要躺平，往死里卷！！！</h1><blockquote>
+<p>但内卷也要适量，身体做重要，不要就为了个<em>年级第一</em>，或者是<strong>小小</strong>的<strong>班级第一</strong>熬夜内卷（<strong>八班</strong>超级严重，尤其<strong>317</strong>！*）<br>要学会科学内卷</p>
+</blockquote>
+<h1 id="努力吧，少年！你有什么资格躺平！？"><a href="#努力吧，少年！你有什么资格躺平！？" class="headerlink" title="努力吧，少年！你有什么资格躺平！？"></a>努力吧，少年！你有什么资格躺平！？</h1></li>
+</ul>
+<p><img src="/images/%E5%8A%AA%E5%8A%9B%E5%B0%BC%E7%8E%9B.jpg"></p>
+]]></content>
+      <tags>
+        <tag>Any 逼逼</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>想用AI装B但对AI一窍不通？试试mediapipe</title>
+    <url>/2022/03/12/%E6%83%B3%E7%94%A8AI%E8%A3%85B%E4%BD%86%E5%AF%B9AI%E4%B8%80%E7%AA%8D%E4%B8%8D%E9%80%9A%EF%BC%9F%E8%AF%95%E8%AF%95mediapipe/</url>
+    <content><![CDATA[<p>在现如今，大家一定听说过人工智能，也就是AI。感觉很拽的样子，现在我就要教大家如何装杯。</p>
+<h1 id="mediapipe"><a href="#mediapipe" class="headerlink" title="mediapipe"></a>mediapipe</h1><p>– mediapipe是Google开源的人工智能框架，效果特别好，对设备几乎无限制，同时支持Android、IOS、网页版；只需要花很少的力气和代价就能将炫酷的AI集成到自己的app。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>文本进度条</title>
+    <url>/2021/12/26/%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1/</url>
+    <content><![CDATA[<h1 id="文本进度条"><a href="#文本进度条" class="headerlink" title="文本进度条"></a>文本进度条</h1><ul>
+<li>什么是文本进度条？<br>就是这个东东：<br><img src="/images/text2.png"><br><img src="/images/text1.png"></li>
+</ul>
+<p><img src="http://www.bddhw.cn/wp-content/uploads/2020/12/2020121423580877.gif"></p>
+<p>好啦话不多说，上代码</p>
+<blockquote>
+<p>#TextProBarV3.py<br>import time<br>scale=50<br>print(“执行开始”.center(scale//2,”-“))<br>start=time.perf_counter()<br>for i in range(scale+1):<br>    a=’*’<em>i<br>   b=’.’</em>(scale-i)<br>    c=(i/scale)*100<br>    dur=time.perf_counter() - start<br>    print(“\r{:^3.0f}%[{}-&gt;{}]{:.2f}s”.format(c,a,b,dur),end=’’)<br>    time.sleep(0.1)<br>print(“\n”+”执行结束”.center(scale//2,’-‘))</p>
+</blockquote>
+<p>切记：因为pyhton为了让开发者能跟清楚地看到程序运行的过程，在shell里运行这段程序不会动态刷新。所以运行时必须双击在命令行里运行。</p>
+]]></content>
+  </entry>
+</search>
